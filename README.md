@@ -1,3 +1,6 @@
+ ============简易版，可以学习用===========
+
+
 ## Open Source BMS是什么?
 全称Open Source Background Manager System，开源后台管理系统
 一个节省开发时间的后台管理系统，程序基于ThinkPHP 5开发，后台UI使用LayUI搭建
